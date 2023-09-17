@@ -1,3 +1,2 @@
 # demo
-this is a demo
-#name- Atri Dhar
+# name- Atri Dhar
